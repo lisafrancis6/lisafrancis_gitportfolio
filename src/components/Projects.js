@@ -13,7 +13,7 @@ export default function Projects() {
             <div className="grid grid-cols-2 gap-5">
                 <div className="p-10 bg-white flex flex-col justify-center items-center rounded shadow transition hover:shadow-xl hover:scale-[102%]">
                     <a 
-                        className="w-80 h-55" href="">
+                        className="w-80 h-55" href="/#">
                     </a>
                     <div className="flex flex-col align-center gap-4 justify-center flex-1 mt-4">
                         <h2 className="font-bold text-3xl text-center">
@@ -29,7 +29,7 @@ export default function Projects() {
 
                 <div className="p-10 bg-white flex flex-col justify-center items-center rounded shadow transition hover:shadow-xl hover:scale-[102%]">
                     <a 
-                        className="w-80 h-55" href="">
+                        className="w-80 h-55" href="/#">
                     </a>
                     <div className="flex flex-col align-center gap-4 justify-center flex-1 mt-4">
                         <h2 className="font-bold text-3xl text-center">
