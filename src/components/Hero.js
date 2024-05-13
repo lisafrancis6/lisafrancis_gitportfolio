@@ -9,7 +9,7 @@ export default function Hero() {
             style={{ marginTop: "120px" }} // Add inline style for margin-top
         >
             <div className="flex-1">
-                <img src={myImage} style={{ width: "350px", height: "470px" }}/>
+                <img src={myImage} alt="Description of my image" style={{ width: "350px", height: "470px" }}/>
             </div>
             <div className="flex-1 flex flex-col justify-center items-center gap-5">
                 <div>
