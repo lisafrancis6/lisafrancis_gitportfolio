@@ -19,7 +19,7 @@ export default function Hero() {
                 </div>
                 <p className="text-center text-2xl font-bold">Learn More About Me</p>
                 <h4 className="text-center">
-                    My name is Lisa Francis and I am an undergraduate studying Engineering Systems and Design with a focus track in Business Analytics and Operations Research at SUTD. I will be graduating in May 2024. Through my studies, I have developed a passion for problem-solving and technology. This website is a platform to showcase my projects.
+                    My name is Lisa Francis. I am currently working as a research engineer at Nanyang Technological University. I studied Engineering Systems and Design with a focus track in Business Analytics and Operations Research at SUTD. Through my work and studies, I have developed a passion for problem-solving and technology. This website is a platform to showcase my school projects.
                 </h4>
             </div>
         </section>

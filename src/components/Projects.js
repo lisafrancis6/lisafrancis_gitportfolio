@@ -7,7 +7,7 @@ export default function Projects() {
                 My Projects
             </h2>
             <p className="text-center">
-                As an undergraduate student at SUTD, I have worked on several projects as part of my curriculum. <br />
+                During my time at SUTD, I worked on several projects as part of my curriculum. <br />
                 Click on the project title for a demonstration.
             </p>
             <div className="grid grid-cols-2 gap-5">
