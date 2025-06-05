@@ -17,7 +17,7 @@ export default function Projects() {
                     </a>
                     <div className="flex flex-col align-center gap-4 justify-center flex-1 mt-4">
                         <h2 className="font-bold text-3xl text-center">
-                            <a className="hover:underline" href="https://capstoneshowcase.sutd.edu.sg/project/proj-16-skh_ai-predictor-for-ot-assets/" target="_blank" rel="noopener noreferrer">
+                            <a className="hover:underline" href="https://capstoneshowcase.sutd.edu.sg/2024/project/proj-16-skh_ai-predictor-for-ot-assets/" target="_blank" rel="noopener noreferrer">
                                 SurgiBot
                             </a>
                         </h2>
