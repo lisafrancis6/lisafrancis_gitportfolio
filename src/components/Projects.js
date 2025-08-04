@@ -27,6 +27,26 @@ export default function Projects() {
                     </div>
                 </div>
 
+            <div className="p-10 bg-white flex flex-col justify-center items-center rounded shadow transition hover:shadow-xl hover:scale-[102%]">
+                    <a 
+                        className="w-80 h-55" href="/#">
+                    </a>
+                    <div className="flex flex-col align-center gap-4 justify-center flex-1 mt-4">
+                        <h2 className="font-bold text-3xl text-center">
+                            <a className="hover:underline" href="https://www.figma.com/proto/YA2b3hWQe0WoZm9tnVP4I5/Empathy-BPD-Game-Project?page-id=969%3A2855&type=design&node-id=969-3279&viewport=388%2C484%2C0.05&t=myw9K3murIYUXcOs-1&scaling=scale-down-width" target="_blank" rel="noopener noreferrer">
+                                In the Mind's Eye: Living with BPD
+                            </a>
+                        </h2>
+                        <p>
+                        This is an interactive game designed using Figma. It immerses users into the
+experiences of individuals living with Borderline Personality Disorder (BPD).
+The aim is to provide a
+firsthand perspective of the challenges faced by
+individuals with BPD, thereby fostering empathy and awareness.
+                        </p>
+                    </div>
+                </div>
+
                 <div className="p-10 bg-white flex flex-col justify-center items-center rounded shadow transition hover:shadow-xl hover:scale-[102%]">
                     <a 
                         className="w-80 h-55" href="/#">
